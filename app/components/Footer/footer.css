@@ -1,0 +1,83 @@
+.footer-service-title {
+    margin-top: 7px;
+    color: #80888A;
+    letter-spacing: 2px;
+    line-height: 22px;
+}
+.footer-header {
+    background-color: #272D2E;
+    padding: 40px 0px 25px 0px;
+}
+.footer-features {
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 500;
+    color: #fff;
+    padding-bottom: 18px;
+}
+.footer-main-container {
+    padding: 30px 0px;
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #FFCD30  0%,#000000 40%);
+}
+.about {
+    color: #B6BDBF;
+    font-size: 14px;
+}
+.about-more-btn {
+    background: #40484A;
+    border-color: #40484A;
+    color: #fff;
+    width: 150px;
+    border: none;
+    height: 50px;
+    border-radius: 25px;
+    margin-top: 32px;
+    transition: all 0.5s;
+}
+.about-more-btn:hover {
+    background: #50933E;
+}
+.service-items > li{
+    list-style: none;
+    padding-bottom: 5px;
+}
+.service-items > li > a{
+    color: #fff;
+    line-height: 32px;
+}
+.post-container {
+    padding-bottom: 5px;
+}
+.post-container > a {
+    color: #fff;
+}
+.post-container > p {
+    font-size: 13px;
+    color: #B6BDBF;
+}
+.contact-item-container {
+    margin-bottom: 10px;
+}
+.contactInfo-item > a {
+    color: #fff;
+    text-decoration: none;
+}
+.contact-hr {
+    border-bottom: 1px solid #495052;
+    margin: 5px 0 5px 0;
+}
+/* .social-btn {
+    background: #40484A;
+    border-color: #40484A;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    border: none;
+    transition: all 0.3s ease;
+    font-size: 20px;
+} */
+.social-btn:hover {
+    box-shadow: 0 0 8px 0 yellow;
+}

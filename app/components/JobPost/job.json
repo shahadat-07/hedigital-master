@@ -1,0 +1,521 @@
+[
+    {
+        "companyName": "HawkEyes Digital Monitoring Ltd.",
+        "companyAddress": "4th Floor, House 5, Road 3, Sector 3, Uttara, Dhaka 1230",
+        "companyIntroduction": "HawkEyes Digital Monitoring Ltd is quintessentially a software solution provider. The company's core objective is to provide tailored solution & service to clients creating a unique edge for them in the market and ensure a tangible business gain. HawkEyes initiated with a unique offering for process automation to companies since 2015. Till date we have served several large MNCs with our innovative solution. We are based out of Dhaka, Bangladesh but have affiliated presence in India.",
+        "jobId": 1,
+        "jobNature": "Full Time",
+        "jobLocation": "Uttara, Dhaka-1230",
+        "jobName": [
+            {
+                "name": "Front End Web Developer",
+                "description": "We are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and deﬁning how the application looks as well as how it works."
+            }
+        ],
+        "jobDescription": [
+            {
+                "point": "As an individual contributor, you should be enthusiastic about developing high performance, scalable enterprise applications using technologies like Angular/React, PHP, , Bootstrap, CSS3, MySQL, RESTful API, Microservices etc."
+            },
+            {
+                "point": "Owner of end to end development, support, maintenance, and implementation of web applications projects."
+            }
+        ],
+        "skillRequirements": [
+            {
+                "point": "Full Stack Web application development experience, minimum 2 years"
+            },
+            {
+                "point": "Strong Experience in developing web applications using technologies like Angular/React, PHP, , Bootstrap, CSS3, MySQL, RESTful API, Microservices etc.."
+            },
+            {
+                "point": "Experience developing RESTful API using Nodejs/PHP framework."
+            },
+            {
+                "point": "Experience with code management tool like github, bitbucket."
+            }
+        ],
+        "experience": "Minimum 3 Year experience",
+        "salary": "70,000",
+        "applicationDeadline": "",
+        "gender": "Both Male & Female",
+        "otherBenifits": "As Per Company Policy"
+    },
+    {
+        "companyName": "HawkEyes Digital Monitoring Ltd.",
+        "companyAddress": "4th Floor, House 5, Road 3, Sector 3, Uttara, Dhaka 1230",
+        "companyIntroduction": "HawkEyes Digital Monitoring Ltd is quintessentially a software solution provider. The company's core objective is to provide tailored solution & service to clients creating a unique edge for them in the market and ensure a tangible business gain. HawkEyes initiated with a unique offering for process automation to companies since 2015. Till date we have served several large MNCs with our innovative solution. We are based out of Dhaka, Bangladesh but have affiliated presence in India.",
+        "jobId": 2,
+        "jobNature": "Full Time",
+        "jobLocation": "Uttara, Dhaka-1230",
+        "jobName": [
+            {
+                "name": "Backend Web developer",
+                "description": "We are seeking a talented back-end developer capable of implementing highly efﬁcient APIs and server scripts to serve our front-end and support our high standards for product quality. Initially, you will mostly be working with Python and MySQL/Oracol, utilizing the Flask framework. On a day-to-day basis, you will build lightning-fast backends, generate recyclable code libraries, implement security systems, inspect server code, do performance optimizations, and maintain a stable server environment with zero downtime."
+            }
+        ],
+        "skillRequirements": [
+            {
+                "point": "The applicants should have experience in the following areas: PHP, Python"
+            },
+            {
+                "point": "Proﬁciency MSSQL, MySQL, Oracle"
+            },
+            {
+                "point": "Minimum 3 years in ERP Industry. Hands on experience in Python."
+            },
+            {
+                "point": "Hands on experience in PHP(Laravel) is added advantage."
+            },
+            {
+                "point": "Very good knowledge in Python with any framework."
+            },
+            {
+                "point": "Very good knowledge in PHP (Laravel) is added advantage."
+            },
+            {
+                "point": "Proﬁciency HTML, Bootstrap, Prestashop etc."
+            },
+            {
+                "point": "Good knowledge and work experience on React is added plus."
+            },
+            {
+                "point": "Good knowledge in Git and project management tool."
+            },
+            {
+                "point": "Good knowledge in Docker."
+            },
+            {
+                "point": "Good knowledge in CI/CD."
+            },
+            {
+                "point": "Should have skills in third party API integration."
+            },
+            {
+                "point": "Should have skills in API development."
+            },
+            {
+                "point": "Should have good knowledge of database design and queries."
+            },
+            {
+                "point": "Will have to work on multiple projects individually or as a part of the team."
+            },
+            {
+                "point": "Should be willing to learn new applications and work in highly challenging, creative projects."
+            },
+            {
+                "point": "Good knowledge in Server Setup and deployment."
+            },
+            {
+                "point": "Should be familiar in both operating systems - Linux & Windows."
+            }
+        ],
+        "experience": "Minimum 3 Year experience",
+        "salary": "50,000",
+        "applicationDeadline": "",
+        "gender": "Both Male & Female",
+        "otherBenifits": "As Per Company Policy"
+    },
+
+    {
+        "companyName": "HawkEyes Digital Monitoring Ltd.",
+        "companyAddress": "4th Floor, House 5, Road 3, Sector 3, Uttara, Dhaka 1230",
+        "companyIntroduction": "HawkEyes Digital Monitoring Ltd is quintessentially a software solution provider. The company's core objective is to provide tailored solution & service to clients creating a unique edge for them in the market and ensure a tangible business gain. HawkEyes initiated with a unique offering for process automation to companies since 2015. Till date we have served several large MNCs with our innovative solution. We are based out of Dhaka, Bangladesh but have affiliated presence in India.",
+        "jobId": 3,
+        "jobNature": "Full Time",
+        "jobLocation": "Uttara, Dhaka-1230",
+        "jobName": [
+            {
+                "name": "Marketing Executive (Digital Channel)",
+                "description": "We are looking for a Digital Marketing Specialist to be a part of our Technology team. The Digital Marketing Specialist’s role is to design, create, and deliver marketing programs to support expansion and growth of the company services and products. This role requires an in depth knowledge of COOKANTS products and market goals. Proficiency in graphics, web advertising, social media marketing is a must. Familiarity with a wide range of field practices, concepts, and procedures."
+            }
+        ],
+        "jobDescription": [
+            {
+                "point": "Plan and monitor the ongoing company presence on social media (Twitter, Facebook etc.)"
+            },
+            {
+                "point": "Provide creative ideas for content marketing."
+            },
+            {
+                "point": "Have good command over typing both Bangla and English"
+            },
+            {
+                "point": "Ensure compliance with company guidelines and design standards."
+            },
+            {
+                "point": "Develop and manage creative digital marketing strategies"
+            },
+            {
+                "point": "Expert on Social Media platforms marketing - Facebook, Instagram, LinkedIn, Google Ad-Sense, SEO, manage digital marketing campaigns, and YouTube marketing."
+            },
+            {
+                "point": "Creates necessary marketing database, email, social media advertising, conduct advertising campaign and photo-shoots for a campaign."
+            },
+            {
+                "point": "Plan and execute all the digital marketing campaign as per company, Association, Trade Organization needs, including posting, boosting, responding."
+            }
+        ],
+        "skillRequirements": [
+            {
+                "point": "Bachelor degree in any discipline"
+            },
+            {
+                "point": "Skills Required: Digital Marketing, Digital Marketing (Social Media Marketing), Google Ads, Google Adwords, Search Engine Optimization (SEO), SEO, SEO and Digital Marketer, SEO and Digital Marketing"
+            }
+        ],
+        "experience": "Minimum 1 Year experience",
+        "salary": "40,000",
+        "applicationDeadline": "",
+        "gender": "Both Male & Female",
+        "otherBenifits": "As Per Company Policy"
+    },
+
+    {
+        "companyName": "HawkEyes Digital Monitoring Ltd.",
+        "companyAddress": "4th Floor, House 5, Road 3, Sector 3, Uttara, Dhaka 1230",
+        "companyIntroduction": "HawkEyes Digital Monitoring Ltd is quintessentially a software solution provider. The company's core objective is to provide tailored solution & service to clients creating a unique edge for them in the market and ensure a tangible business gain. HawkEyes initiated with a unique offering for process automation to companies since 2015. Till date we have served several large MNCs with our innovative solution. We are based out of Dhaka, Bangladesh but have affiliated presence in India.",
+        "jobId": 4,
+        "jobNature": "Full Time",
+        "jobLocation": "Uttara, Dhaka-1230",
+        "jobName": [
+            {
+                "name": "Marketing Executive B2B",
+                "description": "As a B2B Marketer, you will handle marketing efforts for brand awareness. As well as, lead generation, web site development and content curation/creation, and sales collateral."
+            }
+        ],
+        "jobDescription": [
+            {
+                "point": "Recognize and reach out to clients in businesses."
+            },
+            {
+                "point": "Pitch products and services."
+            },
+            {
+                "point": "Develop presentations."
+            },
+            {
+                "point": "Create and assess a business marketing strategy."
+            },
+            {
+                "point": "Develop competitive pricing strategies."
+            },
+            {
+                "point": "Follow through with customer and ensure satisfaction."
+            },
+            {
+                "point": "Oversee product development."
+            },
+            {
+                "point": "Create collateral to distribute during presentations."
+            },
+            {
+                "point": "Advise businesses on local, national, and international trends."
+            },
+            {
+                "point": "Develop sales quota targets."
+            },
+            {
+                "point": "Anticipate revenues."
+            },
+            {
+                "point": "Develop relationships with vendors."
+            },
+            {
+                "point": "Demonstrate company products and solutions."
+            },
+            {
+                "point": "Satisfy technical needs during sales cycle."
+            },
+            {
+                "point": "Articulate competitive positioning."
+            },
+            {
+                "point": "Offer free or reduced trial periods for products."
+            },
+            {
+                "point": "Record customer interactions in lead tracking and customer issue tracking systems."
+            },
+            {
+                "point": "Follow up with leads aggressively."
+            },
+            {
+                "point": "Solicit feedback on products and services."
+            }
+        ],
+        "skillRequirements": [
+            {
+                "point": "BSc degree in Marketing or relevant field."
+            },
+            {
+                "point": "3+ years of hands-on marketing experience in a B2B role."
+            },
+            {
+                "point": "Excellent understanding of B2B marketing."
+            },
+            {
+                "point": "Demonstrated ability to manage the budgeting process and use of analytical skills."
+            },
+            {
+                "point": "Proven track record in delivering marketing campaigns that drive sales growth."
+            },
+            {
+                "point": "Ability to remotely create and manage marketing strategies."
+            },
+            {
+                "point": "An understanding of agile marketing, to identify and focus on high-value projects and then continuously and incrementally improve the results over time."
+            },
+            {
+                "point": "Excellent communication skills."
+            }
+        ],
+        "experience": "Minimum 3 Year experience",
+        "salary": "50,000",
+        "applicationDeadline": "",
+        "gender": "Both Male & Female",
+        "otherBenifits": "As Per Company Policy"
+    },
+
+
+    {
+        "companyName": "HawkEyes Digital Monitoring Ltd.",
+        "companyAddress": "4th Floor, House 5, Road 3, Sector 3, Uttara, Dhaka 1230",
+        "companyIntroduction": "HawkEyes Digital Monitoring Ltd is quintessentially a software solution provider. The company's core objective is to provide tailored solution & service to clients creating a unique edge for them in the market and ensure a tangible business gain. HawkEyes initiated with a unique offering for process automation to companies since 2015. Till date we have served several large MNCs with our innovative solution. We are based out of Dhaka, Bangladesh but have affiliated presence in India.",
+        "jobId": 7,
+        "jobNature": "Full Time",
+        "jobLocation": "Uttara, Dhaka-1230",
+        "jobName": [
+            {
+                "name": "Key Account Manager",
+                "description": "We are currently looking to hire a Key Account Manager who will be responsible for managing of key accounts, maintaining a long-term relationship with accounts and maximising sales opportunities within them."
+            }
+        ],
+        "jobDescription": [
+            {
+                "point": "Developing and managing a portfolio of Key Accounts."
+            },
+            {
+                "point": "Achieving monthly sales targets by identifying and developing new customers"
+            },
+            {
+                "point": "Ensuring high levels of customer satisfaction as well as up-sell and cross-sell potential within existing customers to maximize share of wallet"
+            },
+            {
+                "point": "Coordinating pre-sales and post-sales follow up"
+            },
+            {
+                "point": "Achieving and exceeding weekly and monthly KPIs"
+            },
+            {
+                "point": "Key Accounts Analysis"
+            },
+            {
+                "point": "Monitoring market trends and providing regular competitor feedback"
+            }
+        ],
+        "skillRequirements": [
+            {
+                "point": "You have a Degree in Sales, Marketing, Business Administration or related field."
+            },
+            {
+                "point": "You have strong track record of success within key account management, ideally within the <specify> industry."
+            },
+            {
+                "point": "You have experience in delivering client-focused solutions."
+            },
+            {
+                "point": "You are highly goal oriented, assertive and a hands-on problem solver."
+            },
+            {
+                "point": "You possess excellent communication & interpersonal skills."
+            },
+            {
+                "point": "You demonstrate the ability to communicate, present and influence credibly and effectively at all levels of the organization."
+            },
+            {
+                "point": "You can analyze and draw inference from data."
+            },
+            {
+                "point": "Familiarity with CRM tools (eg. Salesforce) would be a plus"
+            }
+        ],
+        "experience": "Minimum 1 Year experience",
+        "salary": "30,000",
+        "applicationDeadline": "",
+        "gender": "Both Male & Female",
+        "otherBenifits": "As Per Company Policy"
+    },
+    {
+        "companyName": "HawkEyes Digital Monitoring Ltd.",
+        "companyAddress": "4th Floor, House 5, Road 3, Sector 3, Uttara, Dhaka 1230",
+        "companyIntroduction": "HawkEyes Digital Monitoring Ltd is quintessentially a software solution provider. The company's core objective is to provide tailored solution & service to clients creating a unique edge for them in the market and ensure a tangible business gain. HawkEyes initiated with a unique offering for process automation to companies since 2015. Till date we have served several large MNCs with our innovative solution. We are based out of Dhaka, Bangladesh but have affiliated presence in India.",
+        "jobId": 5,
+        "jobNature": "Full Time",
+        "jobLocation": "Uttara, Dhaka-1230",
+        "jobName": [
+            {
+                "name": "Sales Manager",
+                "description": "We are seeking a qualified sales manager to help keep our revenue engine running through their own skill and the leadership of a team of driven sales representatives. Our ideal sales manager has in-depth knowledge of and experience with the sales process, excelling at lead generation, relationship building, and closing deals. We’re seeking a quick learner with strong negotiating skills, and someone with a track record of success who can inspire the same in others. The role demands a leader with a sharp mind and the ability to coach, advise, motivate, or replace sales representatives to create and maintain a high-performance sales force."
+            }
+        ],
+        "jobDescription": [
+            {
+                "point": "Represent our company, with a comprehensive understanding of our offerings"
+            },
+            {
+                "point": "Research consumer needs and identify how our solutions meet them"
+            },
+            {
+                "point": "Hire, train, motivate, and advise a team of sales representatives"
+            },
+            {
+                "point": "Achieve company objectives through effective planning, setting sales goals, analyzing performance data, and projecting future performance."
+            },
+            {
+                "point": "Continuously develop personal leadership, hiring, and training skills while ensuring the team is using effective sales tactics to meet revenue objectives."
+            },
+            {
+                "point": "Generate leads, and build and nurture client relationships"
+            },
+            {
+                "point": "Answering client questions about credit terms, products, prices, and availability."
+            },
+            {
+                "point": "Create and execute a strategic sales plan that expands customer base and extends global reach"
+            },
+            {
+                "point": "Meet with potential clients and grow long-lasting relationships by understanding their needs"
+            },
+            {
+                "point": "Track, analyze, and communicate key quantitative metrics and business trends as they relate to partner relationships"
+            },
+            {
+                "point": "Recruit salespeople, set objectives, train and coach, and monitor performance ensuring assigned tasks and responsibilities are fulfilled"
+            },
+            {
+                "point": "Identify knowledge gaps within the team and develop a plan to fulfill them"
+            },
+            {
+                "point": "Oversee the sales team to ensure company quotas and standards are met by holding daily check-ins with team to set objectives for the day and monitor progress regularly"
+            },
+            {
+                "point": "Manage month-end and year-end close processes"
+            }
+            
+        ],
+        "skillRequirements": [
+            {
+                "point": "Bachelor’s degree in marketing or business administration"
+            },
+            {
+                "point": "3+ years in sales management within a corporate setting"
+            },
+            {
+                "point": "Proven track record of success the sales cycle from plan to close"
+            },
+            {
+                "point": "Excellent communication, interpersonal, and organizational skills"
+            },
+            {
+                "point": "Superb leadership ability"
+            },
+            {
+                "point": "Ability to travel at least 20% of the time"
+            }
+        ],
+        "experience": "Minimum 3 Year experience",
+        "salary": "30,000",
+        "applicationDeadline": "",
+        "gender": "Both Male & Female",
+        "otherBenifits": "As Per Company Policy"
+    },
+
+    {
+        "companyName": "HawkEyes Digital Monitoring Ltd.",
+        "companyAddress": "4th Floor, House 5, Road 3, Sector 3, Uttara, Dhaka 1230",
+        "companyIntroduction": "HawkEyes Digital Monitoring Ltd is quintessentially a software solution provider. The company's core objective is to provide tailored solution & service to clients creating a unique edge for them in the market and ensure a tangible business gain. HawkEyes initiated with a unique offering for process automation to companies since 2015. Till date we have served several large MNCs with our innovative solution. We are based out of Dhaka, Bangladesh but have affiliated presence in India.",
+        "jobId": 6,
+        "jobNature": "Full Time",
+        "jobLocation": "Uttara, Dhaka-1230",
+        "jobName": [
+            {
+                "name": "Sales Executive",
+                "description": "Our company is looking for a sales representative to be responsible for generating leads and meeting sales goals. Duties will include sales presentations and product demonstrations, as well as negotiating contracts with potential clients. In order to be successful in this role, you will need to have a deep understanding of the sales process and dynamics, and also superb interpersonal skills. Previous experience in a sales role is an advantage."
+            }
+        ],
+        "jobDescription": [
+            {
+                "point": "Generating leads."
+            },
+            {
+                "point": "Meeting or exceeding sales goals."
+            },
+            {
+                "point": "Negotiating all contracts with prospective clients."
+            },
+            {
+                "point": "Helping determine pricing schedules for quotes, promotions, and negotiations."
+            },
+            {
+                "point": "Preparing weekly and monthly reports."
+            },
+            {
+                "point": "Giving sales presentations to a range of prospective clients."
+            },
+            {
+                "point": "Coordinating sales efforts with marketing programs."
+            },
+            {
+                "point": "Understanding and promoting company programs."
+            },
+            {
+                "point": "Obtaining deposits and balance of payment from clients."
+            },
+            {
+                "point": "Preparing and submitting sales contracts for orders."
+            },
+            {
+                "point": "Visiting clients and potential clients to evaluate needs or promote products and services."
+            },
+            {
+                "point": "Maintaining client records."
+            },
+            {
+                "point": "Answering client questions about credit terms, products, prices, and availability."
+            }
+        ],
+        "skillRequirements": [
+            {
+                "point": "Bachelor’s degree in business, marketing, economics, or related field."
+            },
+            {
+                "point": "Experience in sales."
+            },
+            {
+                "point": "Understanding of the sales process and dynamics."
+            },
+            {
+                "point": "A commitment to excellent customer service."
+            },
+            {
+                "point": "Excellent written and verbal communication skills."
+            },
+            {
+                "point": "Superb interpersonal skills, including the ability to quickly build rapport with both customers and suppliers."
+            },
+            {
+                "point": "Experience using computers for a variety of tasks."
+            },
+            {
+                "point": "Competency in Microsoft applications including word, excel, and outlook."
+            },
+            {
+                "point": "Able to work comfortably in a fast paced environment."
+            }
+        ],
+        "experience": "Minimum 1 Year experience",
+        "salary": "30,000",
+        "applicationDeadline": "",
+        "gender": "Both Male & Female",
+        "otherBenifits": "As Per Company Policy"
+    }
+]

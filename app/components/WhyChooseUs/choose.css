@@ -1,0 +1,32 @@
+.choose-items {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.item-title {
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    line-height: 30px;
+    color: #333333;
+    padding: 18px 0 10px 0;
+    text-align: left;
+}
+.item-description {
+    font-size: 16px;
+    line-height: 28px;
+    color: #85868c;
+    font-family: 'Roboto';
+    text-align: left;
+}
+.choose-items-small {
+    display: none;
+    width: 100%;
+}
+.choose-items-small > img{
+    margin: 0 auto;
+    width: 100px;
+    border: 2px solid #E9D70F;
+    padding: 10px;
+    height: auto;
+}

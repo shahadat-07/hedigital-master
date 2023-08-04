@@ -1,0 +1,45 @@
+.stickyOn {
+  transition: all 1s ease !important;
+  background-color: #fbb034;
+  background-image: linear-gradient(315deg, #ffa81c 0%, #e8c900 74%);
+  box-shadow: 0 0 5px 0 #817f7c;
+}
+.stickyOff {
+  background-color: #08080800;
+  transition: all 1s ease !important;
+  z-index: 999999999 !important;
+}
+#nav-main {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  transition: all 0.5s ease !important;
+  z-index: 9999999999;
+}
+@-webkit-keyframes gradient-bg {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes gradient-bg {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}

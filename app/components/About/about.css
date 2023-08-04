@@ -1,0 +1,231 @@
+.about-title-container {
+  text-align: center;
+  padding: 50px 0;
+}
+.about-title-hr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title-hr {
+  border-bottom: 3px solid #ffc61b;
+  height: 2px;
+  width: 60px;
+}
+/* .about-content-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 50px;
+} */
+.about-description-text {
+  font-size: 16px;
+  font-family: "Roboto", Arial, sans-serif;
+  line-height: 26px;
+  font-weight: 400;
+  text-align: justify;
+  color: #85868c;
+}
+.world-map-container > img {
+  /* box-shadow: 3px 3px 15px 0px rgb(0 0 0 / 20%); */
+  border-radius: 10px;
+  width: 100%;
+  height: auto;
+}
+.world-map-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.about-btn {
+  border: 2px solid #ffc61b;
+  color: #0a0a0a;
+  font-weight: 500;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  text-transform: uppercase;
+}
+.about-btn:hover {
+  background-color: #ffc61b;
+  color: rgb(14, 13, 13);
+}
+.swiper-wrapper {
+  margin-bottom: 50px;
+}
+.swiper {
+  z-index: 1;
+}
+.slider-image-container {
+  width: 80px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #ffc61b;
+}
+.about-slider-image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+.about-slider-title {
+  font-size: 25px;
+  font-family: "Roboto";
+  font-weight: 700;
+  line-height: 30px;
+  color: #333333;
+  text-align: center;
+  padding: 18px 0 10px 0;
+}
+.about-slider-description {
+  font-size: 16px;
+  line-height: 28px;
+  color: #85868c;
+  font-family: "Roboto";
+  text-align: center;
+}
+
+.more-btn > a {
+  text-decoration: none;
+  color: #252525;
+}
+.about-nav-link {
+  font-size: 25px;
+  color: #2f2f2fbf;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.main-container {
+  background-image: url("https://i.ibb.co/ZWYnM84/hawk.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.about-main-text {
+  text-align: justify;
+  padding-bottom: 15px;
+}
+.about-main-text > p {
+  padding-bottom: 15px;
+}
+.more-about-main-container {
+  background-color: #fff !important;
+  border-radius: 10px;
+}
+.more-about-content {
+  padding: 20px 40px;
+}
+.vision-content,
+.mission-content {
+  position: relative;
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+}
+.vision-content,
+.mission-content > p {
+  text-align: justify;
+  padding-bottom: 10px;
+}
+.vision-hr,
+.mission-hr {
+  position: absolute;
+  top: 25px;
+  width: 100%;
+  z-index: -1;
+  background-color: #ffc61b;
+  height: 1px;
+}
+.custom-hr {
+  width: 60%;
+  background-color: #ffc61b;
+  height: 1px;
+  margin: 0 auto;
+}
+.vision-title,
+.mission-title {
+  background-color: #ffc61b;
+  color: white;
+  width: 155px;
+  margin: 0 auto;
+  height: 50px;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+}
+.management-title {
+  font-family: "Roboto", Arial, sans-serif;
+  font-weight: 600;
+  color: #000;
+  font-size: 42px;
+  line-height: 1.23;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.management-description {
+  max-width: 780px;
+  font-size: 26px;
+  line-height: 1.5;
+  font-weight: 300;
+  color: #383838eb;
+  font-family: "Roboto", Arial, sans-serif;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.management-img-container {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid #d8d8d8;
+  overflow: hidden;
+  margin: 0 auto;
+  outline: none;
+}
+.management-img-container > img {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  object-fit: cover;
+}
+.management-name {
+  font-family: "Roboto", Arial, sans-serif;
+  font-weight: 600;
+  color: #000;
+  padding-top: 10px;
+}
+.backToHomeBtn {
+  width: 210px;
+  border: 3px solid #ffc61b;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+.backToHomeBtn:hover {
+  background-color: #ffc61b;
+}
+.backToHomeBtn > a {
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  font-weight: 600;
+}
+@media only screen and (max-width: 450px) {
+  .main-container {
+    height: 100%;
+  }
+}
