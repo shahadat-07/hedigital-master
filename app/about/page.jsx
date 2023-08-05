@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/rules-of-hooks */
+
 "use client";
 import { Col, Container, Nav, Navbar, Row } from "react-bootstrap";
 import logo from "../assets/logo.svg";

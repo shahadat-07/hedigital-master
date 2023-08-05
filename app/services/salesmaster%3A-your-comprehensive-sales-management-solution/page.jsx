@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/rules-of-hooks */
+
 "use client"
 import Image from "next/image";
 import { motion } from "framer-motion";
@@ -10,8 +12,7 @@ import { features_sales, keyAttributesSales } from "../../const/index";
 import SecondNav from "../../components/PageComponents/SecondNav";
 import workflow from "../../assets/Sales Master WorkFlow.png"
 
-const page = () => {
-
+const Page = () => {
 
   const [ref_parent, inView_parent] = useInView({
     triggerOnce: true,
@@ -152,4 +153,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

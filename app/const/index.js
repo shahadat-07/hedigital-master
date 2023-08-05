@@ -1,5 +1,4 @@
-import ideaImg from "../assets/idea.png";
-import Icon from "../assets/settings.png";
+import { useInView } from "react-intersection-observer";
 import Clock from "../assets/clock.svg";
 import InventoryImg from "../assets/inventory.png";
 import GeoTag from "../assets/geo-tagging.png";
@@ -28,6 +27,8 @@ import Billboard from "../assets/bill_board.png";
 import Ensure from "../assets/ensure.png";
 import Forecasting from "../assets/forecast-analytics_7614439.png";
 import Campeign from "../assets/campaing.png";
+
+export const Observer = useInView;
 
 export const features_ai = [
   {

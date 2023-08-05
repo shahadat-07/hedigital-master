@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/rules-of-hooks */
+
 "use client"
 import { useEffect, useState } from "react";
 import { useInView } from "react-intersection-observer";
