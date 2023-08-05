@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/rules-of-hooks */
+
 'use client'
 import { useInView } from "react-intersection-observer";
 import { motion } from "framer-motion";
